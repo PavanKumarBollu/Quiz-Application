@@ -20,7 +20,7 @@ body
 {
     position: relative;
     /* min-height: 50%; */
-    min-width: 60%;
+    /* min-width: 60%; */
     max-width: 80%;
 
     /* text-align: center;s */
@@ -119,4 +119,13 @@ body
 
 .submit--button:hover{
     cursor: pointer;
+}
+
+
+
+@media screen and (max-width:800px){
+        .container{
+            min-width: 95%;
+            transition: all 2s ease-in-out;
+        }
 }

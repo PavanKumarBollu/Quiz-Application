@@ -1,0 +1,149 @@
+{
+    "questions": [
+      {
+        "question": "Which of the following elements in HTML can be used for making a text bold?",
+        "options": ["<a>", "<pre>", "<br>", "<b>"],
+        "answer": "<b>"
+      },
+      {
+        "question": "Which tag do we use in HTML for inserting a line-break?",
+        "options": ["<a>", "<br>", "<b>", "<pre>"],
+        "answer": "<br>"
+      },
+      {
+        "question": "How to create a hyperlink in HTML?",
+        "options": [
+          "< a link = “www.thinkandlearn.com”> thinkandlearn.com </a>",
+          "< a> www.thinkandlearn.com <thinkandlearn.com /a>",
+          "< a href = “www.thinkandlearn.com”> thinkandlearn.com </a>",
+          "< a url = “www.thinkandlearn.com”> thinkandlearn.com </a>"
+        ],
+        "answer": "< a href = “www.thinkandlearn.com”> thinkandlearn.com </a>"
+      },
+      {
+        "question": "In HTML, how do we insert an image?",
+        "options": [
+          "< img src = “jtp.png” />",
+          "< img href = “jtp.png” />",
+          "< img link = “jtp.png” />",
+          "< img url = “jtp.png” />"
+        ],
+        "answer": "< img src = “jtp.png” />"
+      },
+      {
+        "question": "Which tag do we use to define the options present in the drop-down selection lists?",
+        "options": ["< list>", "< option>", "< dropdown>", "< select>"],
+        "answer": "< option>"
+      },
+      {
+        "question": "In HTML, which of these would add a background color?",
+        "options": [
+          "< marquee bgcolor = “plum”>",
+          "< marquee bg color: “plum”>",
+          "< marquee color = “plum”>",
+          "< marquee bg-color = “plum”>"
+        ],
+        "answer": "< marquee bgcolor = “plum”>"
+      },
+      {
+        "question": "Which HTML tag do we use to display text along with a scrolling effect?",
+        "options": ["< div>", "< scroll>", "< marquee>", "None of the above."],
+        "answer": "< marquee>"
+      },
+      {
+        "question": "In HTML, we use the <hr> tag for ___________.",
+        "options": [
+          "horizontal ruler.",
+          "new line.",
+          "new paragraph.",
+          "vertical ruler."
+        ],
+        "answer": "horizontal ruler."
+      },
+      {
+        "question": "What is the correct way of sending mail in HTML?",
+        "options": [
+          "< mail ab@b</mail>",
+          "< a href = “ab@b”>",
+          "< a href = “mailto: ab@b”>",
+          "None of the above."
+        ],
+        "answer": "< a href = “mailto: ab@b”>"
+      },
+      {
+        "question": "In HTML, the tags are __________. ",
+        "options": [
+          "in upper case.",
+          "case-sensitive.",
+          "in lowercase.",
+          "not case sensitive."
+        ],
+        "answer": "not case sensitive."
+      },
+      {
+        "question": "Which of these tags helps in the creation of a drop-down box or a combo box?",
+        "options": [
+          "< input type = “dropdown”>",
+          "< list>",
+          "< ul>",
+          "< select>"
+        ],
+        "answer": "< select>"
+      },
+      {
+        "question": "Which tag is used in HTML5 for the initialization of the document type?",
+        "options": [
+          "< Doctype HTML>",
+          "<! DOCTYPE html>",
+          "< Doctype>",
+          "<\\ Doctype html>"
+        ],
+        "answer": "<! DOCTYPE html>"
+      },
+      {
+        "question": "What is the correct way in which we can start an ordered list that has the numeric value count of 5?",
+        "options": [
+          "< ol type = “1” start = “5”>",
+          "< ol type = “1” num = “5”>",
+          "< ol type = “1” begin = “5”>",
+          "< ol type = “1” initial = “5”>"
+        ],
+        "answer": "< ol type = “1” start = “5”>"
+      },
+      {
+        "question": "Which one is the HTML document's root tag?",
+        "options": ["< head>", "< body>", "< title>", "< html>"],
+        "answer": "< html>"
+      },
+      {
+        "question": "Which HTML tag do we use for displaying the power in the expression, (x² – y²)?",
+        "options": ["< p>", "< sub>", "< sup>", "None of the above."],
+        "answer": "< sup>"
+      },
+      {
+        "question": "In HTML, the correct way of commenting out something would be using:",
+        "options": ["## and #", "", "</– and -/->", "<! – and -!>"],
+        "answer": ""
+      },
+      {
+        "question": "How does the <bdo> element work?",
+        "options": [
+          "changes direction of the ltr text.",
+          "override the direction of the rtl text.",
+          "stops writing in current direction of text.",
+          "override the text direction."
+        ],
+        "answer": "override the text direction."
+      },
+      {
+        "question": "What attribute do we use for data binding?",
+        "options": ["datasrc.", "mayscript.", "name.", "datafld."],
+        "answer": "datasrc."
+      },
+      {
+        "question": "The non-ASCII characters would be replaced with ________ by the process of URL encoding.",
+        "options": ["“ +”", "“%”", "“ &”", "“ *”"],
+        "answer": "“%”"
+      }
+    ]
+  }
