@@ -54,6 +54,7 @@ body
     padding: 25px;
     border: 2px solid;
     border-radius: 10px;
+  
 }
 
 .question-container .question
@@ -94,4 +95,28 @@ body
    width: 18px;
    height: 18px;
    margin-right: 10px;
+}
+
+.questions-container .next--button--container
+{
+  
+
+    height: 40px;
+    display: flex;
+    justify-content: right;
+}
+
+.next--button--container .submit--button
+{
+    margin-top: 10px;
+    height: 100%;
+    width: 100px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 2px solid;
+    background-color: lightgreen;
+}
+
+.submit--button:hover{
+    cursor: pointer;
 }
